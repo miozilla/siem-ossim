@@ -2,7 +2,7 @@
 siem-ossim : # siem # ossim
 
 ## Objective
-To leverage SIEM tool.
+To leverage SIEM tool (Alien Vault).
 
 ## Open Source Security Information & Event Management (OSSIM)
 
